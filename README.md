@@ -1,2 +1,2 @@
 # Applets-sh
-小程序学习记录
+根据学习模仿网易云音乐 改的zwlnbMusic
