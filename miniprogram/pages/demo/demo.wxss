@@ -1,0 +1,14 @@
+/* pages/demo/demo.wxss */
+.title {
+  color: red;
+  line-height: 50rpx;
+  margin: 0;
+  padding: 0;
+}
+.num-wra {
+  text-align: center;
+}
+.text {
+  font-size: 60rpx;
+  color: orange;
+}

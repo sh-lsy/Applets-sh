@@ -1,0 +1,16 @@
+<!--pages/demo/demo.wxml-->
+<view>
+  <view class="title" wx:for="{{arr}}" wx:key="*this">
+    {{item}} --- {{ index}}
+  </view>
+</view>
+<view class="num-wra">
+  <text class="text">
+    {{num}}
+  </text>
+    <button type="primary" size="mini" bindtap="add">+1</button>
+    <button type="warn" size="mini" bindtap="del">-1</button>
+</view>
+  
+  
+  
